@@ -3,7 +3,7 @@ title: Some Lesson learned of Nginx
 date: 2024-01-19 11:28:08
 tags:
 categories:
-  - [Server,Nginx]
+  - [Infrastructure, Nginx]
 ---
 
 ***

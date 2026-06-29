@@ -3,7 +3,7 @@ title: Algorithm
 date: 2024-01-27 17:32:00
 tags:
 categories:
-  - Algorithm
+  - [Python, Algorithm]
 ---
 
 ***

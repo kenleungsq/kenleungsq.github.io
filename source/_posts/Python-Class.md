@@ -3,7 +3,7 @@ title: Class
 date: 2024-01-27 17:39:09
 tags:
 categories:
-  - [Python,Concept]
+  - [Python, Concept]
 ---
 
 Class的attribute，所有在Class内的内容都有可能作为 Class的Attribute，例如方法，mod_name.attribute调用。不同Module里的Class name可以重名，因为是用Attribute来调用。

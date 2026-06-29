@@ -3,7 +3,7 @@ title: PyWin32
 date: 2024-01-27 17:35:23
 tags:
 categories:
-  - [Python,Package, Others]
+  - [Python, Package, Others]
 ---
 
 https://officeguide.cc/python-windows-extensions-pywin32-installation/

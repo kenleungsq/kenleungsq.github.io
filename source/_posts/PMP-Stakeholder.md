@@ -3,7 +3,7 @@ title: Stakeholder
 date: 2024-01-25 18:20:44
 tags:
 categories:
-  - PMP
+  - [Project Management, PMP]
 ---
 
 干系人可以影响项目的许多方面，包括，但不限于：
@@ -22,4 +22,3 @@ categories:
 
 
 {% asset_img image.png This is an example image %}
-

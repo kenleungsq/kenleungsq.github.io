@@ -3,7 +3,7 @@ title: Numpy
 date: 2024-01-25 21:15:04
 tags:
 categories:
-  - [Python,Package]
+  - [Python, Package]
 ---
 
 

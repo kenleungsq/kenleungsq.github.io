@@ -3,7 +3,7 @@ title: Django项目初始化流程
 date: 2024-01-27 18:07:32
 tags:
 categories:
-    - [Python,Package,Django]
+  - [Python, Package, Django]
 ---
 
 1. Create virtual environmentVirtualenv 

@@ -1,7 +1,8 @@
 # Header
 menu:
   Home: /
-  # Archives: /archives
+  About: /my-page/
+  Notes: /archives/
 #   Resume: /2024/01/19/b
 # rss: /atom.xml
 banner: "images/banner.jpg"
@@ -26,9 +27,9 @@ copyright:
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></br>
 
 # Sidebar
-sidebar: left
-widgets:
-- category
+sidebar: false
+widgets: []
+# - category
 # - tag
 # - tagcloud
 # - archive
@@ -116,67 +117,7 @@ resume:
     - title: Power Platform
       level: advanced
       items: [Power Automate, Power Apps, Share Point, Power BI]
-  experience:
-    - position: Senior Associate IA
-      duration: Oct 2020 - Oct 2023
-      company: 广东凯捷商业数据处理服务有限公司 
-      # website: Content
-      description: '1, Developed diffirrent kinds of RPA by UiPath, Power Automate, Kryon, VBA based on business requirement.
-      <br>2, Developed an EVM website based on Django and VUE2.
-      <br>3, Worked as solution architect for differrent projects.
-      <br>4, Prepared different kinds of project doucments such as PDD and SDD.
-      <br>5, Coached new joiners of different RPA tools and comply with code standard.
-      <br>6, Responsed as a technical SPOC for an engagement. Maintained a SharePoint List and tens of Power Automate flows.
-<br>7, Conducted end to end project serveice to customer.
-'
-      hilights: [
-        'Promopted from Process Associate to Senior Associate(3 in 20)',
-        'Presentor of daily share meeting and trainer in daily new techs',
-        'SPOC of an internal customer',
-      ]
-    - position: Data Operation 
-      duration: Apr 2019 - Mar 2020
-      company: 广州宏途教育网络科技有限公司 
-      # website: website.com
-      description: "1, HONEDU is the leading company of providing integrated services in K12 education. It has over 10 branches and 300
-employees in different region. The company serves hundreds of thousands of students in the country keeping them
-efficient and save in school.
-<br>2, Managed kinds of data in BaoKaoDaXue website. There are more than 2700 colleges,1300 majors as well as
-millions
-of student recruitment plan. Collected the data from different source.Cleaned the raw data.Sort out the data. Uploaded
-data to go live.
-<br>3, Exported data from database depend on department's needs.
-<br>4, Created excel formula/vba/daily process automation depend on operational needs."
-      hilights: [
-        'Took over all works in ten days before the resignment of previous owner. Ensured the data providing in the busy
-season',
-        'Optimized the input method of data from paper to eletronic. The speed from raw data to production had been
-improved effectively'
-      ]
-    - position: Financial Officer
-      duration: May 2015 - Oct 2018
-      company: 汇丰环球客户服务（广东）有限公司
-      # website: website.com
-      description: '1, Conducted the CRS&FATCA checking for new to bank customer. Made sure all the documents on file before account
-opening.
-<br>2, Provided CRS&FATCA training for other staff within the department.
-<br>3, Guiding IT staff when building up the automation during streamline project.'
-      hilights: [
-        'Best Performer (5% of the departement)',
-        'Streamline Star',
-      ]
-      # Education
-  education:
-    - institution: South China Agricultural University
-      course: Philosophy
-      duration: Sep 2010 - Jun 2014
-      location: GuangZhou, GuangDong, China
-      # major: Philosophy
-    # - institution: Your Second University
-    #   course: Masters Information Technology
-    #   duration: Aug 2007 - Jun 2011
-    #   location: Ut enim ad minim veniam
-    #   major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  
 # Showcase your work
   projects:
   - title: Resource and Project management webiste devlopment based on Python&VUE2&MySQL

@@ -3,7 +3,7 @@ title: Tkinter
 date: 2024-01-25 21:24:22
 tags:
 categories:
-  - [Python,Package, Others]
+  - [Python, Package, Others]
 ---
 
 # Tkiner 打包exe后运行不显示Console

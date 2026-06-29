@@ -3,7 +3,7 @@ title: Django 知识点汇总
 date: 2024-01-27 17:51:42
 tags:
 categories:
-    - [Python,Package,Django]
+  - [Python, Package, Django]
 ---
 
 # Python 解释器 环境变量设置 pip
@@ -123,4 +123,3 @@ Home中再读取
 
 Create multiple templates that extend a base template
 类似于C# rendor 的概念
-

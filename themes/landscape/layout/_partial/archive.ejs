@@ -3,23 +3,31 @@
     <%- partial('article', {post: post, index: true}) %>
   <% }) %>
 <% } else { %>
+  <% var group_by_year = typeof group_by_year === 'undefined' ? true : group_by_year; %>
+  <% var show_date = typeof show_date === 'undefined' ? true : show_date; %>
   <% var last; %>
-  <% page.posts.each(function(post, i){ %>
-    <% var year = post.date.year(); %>
-    <% if (last != year){ %>
-      <% if (last != null){ %>
-        </div></section>
+  <% if (!group_by_year){ %>
+    <section class="archives-wrap">
+      <div class="archives">
+  <% } %>
+    <% page.posts.each(function(post, i){ %>
+      <% if (group_by_year){ %>
+        <% var year = post.date.year(); %>
+        <% if (last != year){ %>
+          <% if (last != null){ %>
+            </div></section>
+          <% } %>
+          <% last = year; %>
+          <section class="archives-wrap">
+            <div class="archive-year-wrap">
+              <a href="<%- url_for(config.archive_dir + '/' + year) %>" class="archive-year"><%= year %></a>
+            </div>
+            <div class="archives">
+        <% } %>
       <% } %>
-      <% last = year; %>
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="<%- url_for(config.archive_dir + '/' + year) %>" class="archive-year"><%= year %></a>
-        </div>
-        <div class="archives">
-    <% } %>
-    <%- partial('archive-post', {post: post, even: i % 2 == 0}) %>
-  <% }) %>
-  <% if (page.posts.length){ %>
+      <%- partial('archive-post', {post: post, even: i % 2 == 0, show_date: show_date}) %>
+    <% }) %>
+  <% if (page.posts.length || !group_by_year){ %>
     </div></section>
   <% } %>
 <% } %>

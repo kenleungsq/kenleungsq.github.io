@@ -3,7 +3,7 @@ title: Project Foundation
 date: 2024-01-27 18:37:46
 tags:
 categories:
-  - [PMP]
+  - [Project Management, PMP]
 ---
 
 # What's Project

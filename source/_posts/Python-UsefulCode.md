@@ -3,7 +3,7 @@ title: UsefulCode
 date: 2024-01-25 21:20:30
 tags:
 categories:
-  - [Python, 代码片断]
+  - [Python, Snippets]
 ---
 
 # Global Hotkey

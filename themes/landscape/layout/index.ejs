@@ -1,2 +1,67 @@
-<%- partial('./resume.swig') %>
-<!-- <%- partial('_partial/archive', {pagination: 2, index: true}) %> -->
+<section class="home-hero">
+  <p class="home-kicker">Automation Solution Engineer</p>
+  <h1>Ken Lau</h1>
+  <p class="home-lede">
+    I build practical automation, internal systems, and AI-assisted workflows that connect business problems with useful technical execution.
+  </p>
+  <div class="home-actions">
+  </div>
+</section>
+
+<section class="home-section">
+  <header class="home-section-header">
+    <h2>Featured Company Projects</h2>
+    <a href="<%- url_for('/company-projects/') %>">View all</a>
+  </header>
+  <div class="home-grid">
+    <article class="home-card">
+      <h3>Enterprise UiPath Automation Delivery</h3>
+      <p>Delivered and maintained 20+ production automations across insurance, manufacturing, procurement, telecommunications, and e-commerce processes.</p>
+    </article>
+    <article class="home-card">
+      <h3>Power Platform Workflow Ownership</h3>
+      <p>Maintained and optimized 10+ Power Automate flows, large SharePoint datasets, and customer-facing workflow requirements.</p>
+    </article>
+    <article class="home-card">
+      <h3>Project & Resource Management Platform</h3>
+      <p>Contributed backend, frontend, database, and deployment work for a Django, Vue.js, and MySQL internal management system.</p>
+    </article>
+  </div>
+</section>
+
+<section class="home-section">
+  <header class="home-section-header">
+    <h2>Personal Projects</h2>
+    <a href="<%- url_for('/personal-projects/') %>">View all</a>
+  </header>
+  <div class="home-grid">
+    <article class="home-card">
+      <h3>AI Learning Assistant</h3>
+      <p>An AI-powered learning environment around a personal knowledge vault, retrieval workflows, and understanding assessment.</p>
+    </article>
+    <article class="home-card">
+      <h3>Type 1 Diabetes Monitoring System</h3>
+      <p>A personal healthcare platform concept for glucose tracking, insulin tracking, visualization, and predictive model exploration.</p>
+    </article>
+    <article class="home-card">
+      <h3>AI & Automation Homelab</h3>
+      <p>A self-hosted environment for Proxmox, Docker, Linux, Nextcloud, local AI models, and fast prototype experiments.</p>
+    </article>
+  </div>
+</section>
+
+<section class="home-section">
+  <header class="home-section-header">
+    <h2>Knowledge Domains</h2>
+    <a href="<%- url_for('/archives/') %>">All notes</a>
+  </header>
+  <div class="domain-grid">
+    <a class="domain-link" href="<%- url_for('/categories/Automation/') %>">Automation</a>
+    <a class="domain-link" href="<%- url_for('/categories/Python/') %>">Python</a>
+    <a class="domain-link" href="<%- url_for('/categories/Data/') %>">Data</a>
+    <a class="domain-link" href="<%- url_for('/categories/Database/') %>">Database</a>
+    <a class="domain-link" href="<%- url_for('/categories/Power-Platform/') %>">Power Platform</a>
+    <a class="domain-link" href="<%- url_for('/categories/Project-Management/') %>">Project Management</a>
+    <a class="domain-link" href="<%- url_for('/categories/Infrastructure/') %>">Infrastructure</a>
+  </div>
+</section>

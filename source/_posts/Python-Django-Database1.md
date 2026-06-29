@@ -3,7 +3,7 @@ title: Django根据MySQL数据库中已经存在的表反向生成models.py
 date: 2024-01-28 19:57:12
 tags:
 categories:
-    - [Python,Package,Django]
+  - [Python, Package, Django]
 ---
 
 https://blog.csdn.net/tianxinyiru/article/details/107836918

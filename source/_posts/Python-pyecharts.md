@@ -3,7 +3,7 @@ title: pyecharts
 date: 2024-01-27 17:42:32
 tags:
 categories:
-  - [Python,Package, Others]
+  - [Python, Package, Others]
 ---
 
 ***
@@ -22,4 +22,3 @@ categories:
 ## 分层汇总
 
 {% asset_image image3.png %}
-

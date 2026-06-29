@@ -3,7 +3,7 @@ title: Function相关
 date: 2024-01-27 17:39:39
 tags:
 categories:
-  - [Python,Concept]
+  - [Python, Concept]
 ---
 
 ***

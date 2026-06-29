@@ -3,7 +3,7 @@ title: Agile
 date: 2024-01-28 19:27:50
 tags:
 categories:
-  - [PMP]
+  - [Project Management, PMP]
 ---
 
 ***

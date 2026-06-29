@@ -3,7 +3,7 @@ title: Playwright
 date: 2024-01-28 19:16:04
 tags:
 categories:
-  - [Python,Package, Others]
+  - [Automation, Python Tools]
 ---
 
 # Tutorial
