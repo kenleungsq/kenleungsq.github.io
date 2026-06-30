@@ -1,5 +1,5 @@
 ---
-title: Function相关
+title: Python Function Argument Passing
 date: 2024-01-27 17:39:39
 tags:
 categories:

@@ -1,5 +1,5 @@
 ---
-title: PyWin32
+title: Python PyWin32 Hotkey References
 date: 2024-01-27 17:35:23
 tags:
 categories:

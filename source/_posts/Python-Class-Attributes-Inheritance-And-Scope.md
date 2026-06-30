@@ -1,5 +1,5 @@
 ---
-title: Class
+title: Python Class Attributes, Inheritance, and Scope
 date: 2024-01-27 17:39:09
 tags:
 categories:

@@ -1,5 +1,5 @@
 ---
-title: Power Apps Points
+title: Power Apps Patch and Data Sources
 date: 2024-01-31 06:18:58
 tags:
 categories:

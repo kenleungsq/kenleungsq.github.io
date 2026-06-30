@@ -1,5 +1,5 @@
 ---
-title: Django项目初始化流程
+title: Django Project Initialization Workflow
 date: 2024-01-27 18:07:32
 tags:
 categories:

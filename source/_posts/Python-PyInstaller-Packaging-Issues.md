@@ -1,5 +1,5 @@
 ---
-title: Pyinstaller
+title: Python PyInstaller Packaging Issues
 date: 2024-01-25 21:27:54
 tags:
 categories:

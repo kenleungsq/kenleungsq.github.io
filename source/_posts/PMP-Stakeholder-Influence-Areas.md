@@ -1,5 +1,5 @@
 ---
-title: Stakeholder
+title: PMP Stakeholder Influence Areas
 date: 2024-01-25 18:20:44
 tags:
 categories:

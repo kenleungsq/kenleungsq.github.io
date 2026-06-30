@@ -1,5 +1,5 @@
 ---
-title: pyecharts
+title: Python pyecharts Axis Labels and MultiIndex
 date: 2024-01-27 17:42:32
 tags:
 categories:

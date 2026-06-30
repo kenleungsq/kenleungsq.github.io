@@ -1,5 +1,5 @@
 ---
-title: 部分Concept（价值、质量、项目预期）
+title: PMP Value, Quality, and Adaptability Concepts
 date: 2024-01-25 18:20:27
 tags:
 categories:

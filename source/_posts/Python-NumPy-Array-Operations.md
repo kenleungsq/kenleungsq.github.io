@@ -1,5 +1,5 @@
 ---
-title: Numpy
+title: Python NumPy Array Operations
 date: 2024-01-25 21:15:04
 tags:
 categories:

@@ -1,5 +1,5 @@
 ---
-title: PowerBI
+title: Power BI Slicers and MySQL Connection
 date: 2024-01-29 15:05:55
 tags:
 categories:

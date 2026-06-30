@@ -1,5 +1,5 @@
 ---
-title: Concepts
+title: Python Fundamentals and NumPy Notes
 date: 2024-01-25 18:35:22
 tags:
 categories:

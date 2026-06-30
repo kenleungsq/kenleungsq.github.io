@@ -1,5 +1,5 @@
 ---
-title: Agile
+title: PMP Agile Quality and Adaptability
 date: 2024-01-28 19:27:50
 tags:
 categories:

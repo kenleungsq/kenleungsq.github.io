@@ -1,5 +1,5 @@
 ---
-title: PyautoGUI
+title: Python PyAutoGUI Click Automation
 date: 2024-01-25 21:17:17
 tags:
 categories:

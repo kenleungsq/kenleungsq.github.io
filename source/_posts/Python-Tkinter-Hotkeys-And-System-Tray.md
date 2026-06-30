@@ -1,5 +1,5 @@
 ---
-title: UsefulCode
+title: Python Tkinter Hotkeys and System Tray
 date: 2024-01-25 21:20:30
 tags:
 categories:

@@ -1,5 +1,5 @@
 ---
-title: Django根据MySQL数据库中已经存在的表反向生成models.py
+title: Django MySQL Model Migration and InspectDB
 date: 2024-01-28 19:57:12
 tags:
 categories:

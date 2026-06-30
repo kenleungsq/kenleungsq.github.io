@@ -1,5 +1,5 @@
 ---
-title: SQL Server Fundamentals
+title: SQL Server CTE, Ranking, and Partition Windows
 date: 2024-01-24 22:03:19
 tags:
 categories:
@@ -31,7 +31,6 @@ MyName2 as
 
 
 {% asset_img image1.png This is an example image %}
-
 
 
 

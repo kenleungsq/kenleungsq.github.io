@@ -1,5 +1,5 @@
 ---
-title: Django Admin相关
+title: Django Admin Security
 date: 2024-01-27 18:09:44
 tags:
 categories:

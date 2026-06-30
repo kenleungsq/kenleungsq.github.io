@@ -1,5 +1,5 @@
 ---
-title: Playwright
+title: Python Playwright Debugging and Chrome Connection
 date: 2024-01-28 19:16:04
 tags:
 categories:

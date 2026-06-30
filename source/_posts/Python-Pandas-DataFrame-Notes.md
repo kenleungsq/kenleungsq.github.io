@@ -1,5 +1,5 @@
 ---
-title: Pandas
+title: Python Pandas DataFrame Notes
 date: 2024-01-25 21:29:08
 tags:
 categories:

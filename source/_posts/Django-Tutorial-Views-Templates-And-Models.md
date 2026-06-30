@@ -1,5 +1,5 @@
 ---
-title: Django 知识点汇总
+title: Django Tutorial Views, Templates, and Models
 date: 2024-01-27 17:51:42
 tags:
 categories:

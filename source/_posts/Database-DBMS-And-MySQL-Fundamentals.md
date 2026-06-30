@@ -1,5 +1,5 @@
 ---
-title: '数据库知识点总结归纳'
+title: Database DBMS and MySQL Fundamentals
 date: 2024-01-24 21:54:39
 tags:
   - Knowledge
