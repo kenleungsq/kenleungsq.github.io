@@ -174,11 +174,29 @@
   margin: block-margin 0
 
 .home-kicker
-  margin: 0 0 10px
+  display: inline-block
+  position: relative
+  margin: 0 0 16px
+  padding-bottom: 8px
   color: color-link
-  font-weight: bold
+  background: linear-gradient(135deg, color-link, lighten(color-link, 28%))
+  -webkit-background-clip: text
+  background-clip: text
+  -webkit-text-fill-color: transparent
+  font-weight: 800
   text-transform: uppercase
-  font-size: 0.85em
+  font-size: 1.35em
+  line-height: 1.2
+  letter-spacing: 0.08em
+  &:after
+    content: ""
+    position: absolute
+    left: 0
+    bottom: 0
+    width: 68%
+    height: 3px
+    border-radius: 3px
+    background: linear-gradient(90deg, color-link, lighten(color-link, 32%))
 
 .home-hero h1
   margin: 0

@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "Ken Liang's World"
+title: "Ken's World"
 subtitle: ''
-description: "Ken Liang's portfolio and technical knowledge base for automation, Power Platform, Python, data, web development, databases, and project management."
-keywords: 'Ken Liang, RPA, Power Platform, Python, Django, Power BI, database, project management, automation'
-author: Ken Liang
+description: "Ken's portfolio and technical knowledge base for automation, Power Platform, Python, data, web development, databases, and project management."
+keywords: 'Ken, RPA, Power Platform, Python, Django, Power BI, database, project management, automation'
+author: Ken
 language: en
 timezone: ''
 

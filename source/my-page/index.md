@@ -4,8 +4,6 @@ hide_date: true
 comments: false
 ---
 
-# Ken Lau
-
 ## Automation Solution Engineer | Intelligent Automation Engineer | AI Automation Enthusiast
 
 Guangzhou / Shenzhen / Remote  
