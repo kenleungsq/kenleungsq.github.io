@@ -1,0 +1,19 @@
+<section class="home-section">
+  <header class="home-section-header">
+    <h2>All Articles</h2>
+    <a href="<%- url_for('/categories/') %>">Browse topics</a>
+  </header>
+
+  <div class="article-list">
+    <%
+      var posts = site.posts.toArray().sort(function(a, b) {
+        return String(a.title || '').localeCompare(String(b.title || ''));
+      });
+    %>
+    <% posts.forEach(function(post) { %>
+      <a class="article-list-item" href="<%- url_for(post.path) %>">
+        <span><%= post.title %></span>
+      </a>
+    <% }) %>
+  </div>
+</section>
