@@ -12,11 +12,27 @@ Email: <kenliangsq@foxmail.com>
 
 ## Professional Summary
 
-I build practical automation and internal business systems that reduce repetitive work, improve process visibility, and connect business requirements with technical execution.
+Hi, I’m Ken.
 
-My background covers enterprise RPA, Power Platform solutions, Python automation, data reporting, and lightweight web systems. I have delivered and supported automation work across finance, insurance, manufacturing, procurement, e-commerce, education, and internal operations.
+I build technology that empowers people.
 
-I am currently expanding from traditional automation into AI agents, personal knowledge systems, local AI infrastructure, and intelligent workflows.
+My work sits at the intersection of AI, automation, and software engineering. I enjoy transforming complex ideas into practical tools that save time, reduce repetitive work, and help people focus on what matters most.
+
+I didn’t begin my career in computer science—I studied Philosophy. Surprisingly, that background has become one of my strengths. Philosophy taught me to think critically, ask better questions, and understand problems before jumping to solutions. Engineering gave me the ability to turn those ideas into working systems.
+
+Today I build AI agents, automation workflows, developer tools, and personal projects. I follow a simple principle:
+
+Understand → Build → Serve.
+
+Instead of learning technology for its own sake, I prefer building real products. Every project is an opportunity to learn, improve, and create something useful for others.
+
+Outside of work, I’m continuously exploring new technologies, maintaining a personal homelab, experimenting with AI systems, and building projects that combine software with real-world impact—from intelligent automation to personal health tools.
+
+I’m especially interested in AI Agents, workflow automation, developer productivity, and human-centered software.
+
+If my work helps someone save time, solve a difficult problem, or learn something new, then I’ve achieved what I set out to do.
+
+Welcome to my corner of the Internet.
 
 ## Core Skills
 
